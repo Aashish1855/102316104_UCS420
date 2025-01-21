@@ -20,11 +20,11 @@ print("Highest marks:-",max(tu),"at index",tu.index(max(tu)))
 print("Lowest marks is:-",min(tu)," and it appeared",tu.count(min(tu)))
 ls_q2=list(tu[::-1])
 print("Reversed tuple into a list",ls_q2)
-x=76
+x=int(input("Enter a number="))
 if(tu.count(x)>0):
     print(tu.index(x))
 else:
-    print("Not fount")
+    print("Not found")
 
 #Question-3
 print("Question 3")
@@ -59,7 +59,7 @@ print("The union of a and b",a.union(b))
 print("The intersection of a and b",a.intersection(b))
 print("The differance b/w and b",a.difference(b))
 print("if a is subset of b",a.issubset(b))
-x=32
+x=int(input("Enter Score to search="))
 try:
     a.remove(x)
 except:
