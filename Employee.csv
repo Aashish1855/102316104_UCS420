@@ -1,0 +1,6 @@
+ID,Name,Department,Age,Salary,Years_of_experience,Joining_Date,Gender,Bonus,Rating,Category,Tax
+101,Alice,HR,29,36450.0,4,2020-03-15,Female,5000,4.5,Excellect,4050.0
+102,Bob,IT,34,51030.0,8,2017-07-19,Male,7000,4.0,Good,5670.0
+103,Charlie,IT,41,47385.0,10,2013-06-01,Male,6000,3.8,Average,5265.0
+104,Diana,Marketing,28,40095.0,3,2021-02-10,Female,4500,4.7,Excellect,4455.0
+105,Edward,Sales,38,43740.0,12,2010-11-25,Male,5000,3.5,Average,4860.0
