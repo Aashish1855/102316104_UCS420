@@ -10,3 +10,4 @@ Contents of this repository are as follow:-
 8. Assignment_8:-Logistic Regression on Iris dataset.
 9. Assignment_9:-Getting familar with NLP.
 10. Assignment_10:-Using NLP.
+11. Assignment_11:-Creating a Medicine label and emotion detecter.
